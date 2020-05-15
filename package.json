@@ -1,6 +1,6 @@
 {
   "name": "jest-playwright-jsdom",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Running tests using Jest JSDOM environment & Playwright.",
   "main": "index.js",
   "repository": {
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/playwright-community/jest-playwright-jsdom/issues"
   },
-  "homepage": "https://github.com/playwright-community/jest-playwright-jsdom#readme"
+  "homepage": "https://github.com/playwright-community/jest-playwright-jsdom#readme",
+  "dependencies": {
+    "expect-playwright": "^0.2.2",
+    "jest-playwright-preset": "^0.2.0-rc6"
+  }
 }
