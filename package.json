@@ -1,0 +1,24 @@
+{
+  "name": "jest-playwright-jsdom",
+  "version": "0.0.1",
+  "description": "Running tests using Jest JSDOM environment & Playwright.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/playwright-community/jest-playwright-jsdom.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jest",
+    "jest-jsdom",
+    "playwright",
+    "jest-playwright",
+    "jest-playwright-preset",
+    "jest-playwright-jsdom"
+  ],
+  "author": "playwright-community",
+  "bugs": {
+    "url": "https://github.com/playwright-community/jest-playwright-jsdom/issues"
+  },
+  "homepage": "https://github.com/playwright-community/jest-playwright-jsdom#readme"
+}
