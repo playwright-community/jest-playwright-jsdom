@@ -23,6 +23,6 @@
   "homepage": "https://github.com/playwright-community/jest-playwright-jsdom#readme",
   "dependencies": {
     "expect-playwright": "^0.2.5",
-    "jest-playwright-preset": "^1.2.1"
+    "jest-playwright-preset": "^1.3.0"
   }
 }
